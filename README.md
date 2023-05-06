@@ -1,2 +1,2 @@
-# dotfiles-toter
-Example and test repository for Toterfile
+# dotsfiles
+Sample dotfiles repo for Dots development
